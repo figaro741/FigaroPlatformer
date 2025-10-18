@@ -1,3 +1,2 @@
 # Figaro Platformer
-Play here
-- [ ] #739
+[Play here](https://figaro741.github.io/Figaro-Platformer/).
